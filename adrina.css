@@ -1,0 +1,128 @@
+#navbar
+{
+    display: flex;
+}
+#block2
+{
+    margin-left: 50px;
+    display: flex;
+}
+#block3
+{
+    margin-left:55%  ;   
+    display: flex;
+}
+#a
+{
+    color:white;
+    width:60px;
+}
+#b
+{
+    width:40px;
+}
+#show
+{
+    
+    margin-top:350px;
+    display: flex;
+}
+#show2
+{
+    margin-left: 5px;
+    margin-top: 5px;
+    color: white;
+}
+#maid
+{
+    font-size: 120px;
+    font-family: Arial;
+    color: white;
+}
+#see
+{
+    margin-top: 30px;
+}
+#img
+{
+    background-image: url("Title-Image.png");
+}
+#plus
+{
+    display: flex;
+    
+}
+#plus2
+{
+    margin-top: 30px;
+    margin-left: 88%;
+}
+#layer1
+{
+    display: flex;
+}
+#l1
+{
+    width:19%;
+}
+#layer2
+{
+    margin-top: 20px;
+    display: flex;
+}
+#l2
+{
+    width:19%;
+}
+#layer3
+{
+    margin-top: 20px;
+    display: flex;
+}
+#l3
+{
+    width:19%;
+}
+#layer4
+{
+    margin-top: 20px;
+    display: flex;
+}
+#l4
+{
+    width:19%;
+}
+#top
+{
+    color: white;
+    margin-top: 30px;
+}
+#trend
+{
+    color: white;
+    margin-top: 30px;
+}
+#scifi
+{
+    color: white;
+    margin-top: 30px;
+}
+#black
+{
+    background-color: black;
+}
+#info
+{
+    background-color: rgba(128, 128, 128, 0.405);
+    
+}
+#bottom
+{
+    display: flex;
+    margin-left: 20%;
+}
+#sm
+{
+    width:40px;
+}
+
